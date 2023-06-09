@@ -1,5 +1,5 @@
 ---
-title: "Central API System"
+title: "Central API System #1 書いてる途中です"
 emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [api]
