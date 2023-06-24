@@ -9,4 +9,5 @@ published: false
 #MDNて、なんだ
 ども!
 MDNはmozillaとかがやってるオープンソースのweb技術文書化プロジェクトです
-ここでは
+ここでは*HTML、CSS、JSを学ぶ*、*WebAPI、PWA、Web運営*などWEBに関係あるものだったら様々な情報があります
+
